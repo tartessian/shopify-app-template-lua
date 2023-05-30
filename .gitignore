@@ -1,4 +1,6 @@
-web/logs/
-web/*_temp/
+/web/*_temp/
+/web/logs/
+/web/nginx.conf.compiled
+/web/frontend/node_modules
 
-web/nginx.conf.compiled
+node_modules/
