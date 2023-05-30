@@ -1,4 +1,4 @@
-logs/
-*_temp/
+web/logs/
+web/*_temp/
 
-nginx.conf.compiled
+web/nginx.conf.compiled
