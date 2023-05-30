@@ -1,0 +1,5 @@
+type="backend"
+
+[commands]
+dev = "lapis server development"
+build = ""
